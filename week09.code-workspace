@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "week09",
+			"path": "../../  Jan Desktop 2022/ DeskTop 2023/ UNM Frontline code class/New-FrontEnd-Labs-main 2/week09"
+		},
+		{
+			"name": "Finance-Web",
+			"path": "../Week7Make-website/Finance-Web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Finance-Web"
+	}
+}
